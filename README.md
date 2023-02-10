@@ -3,7 +3,7 @@
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=reactionic127&row=1" alt="reactionic127" />
+        <img src="https://github-profile-trophy.vercel.app/?username=react-dev-james&row=1" alt="react-dev-james" />
     </a> 
 </p>
 
@@ -14,7 +14,7 @@
 
 - 🌱 Have a deep understanding of mobile/web software application, and have the business acumen to make the projects successful.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reactionic127&label=Profile%20views&color=0e75b6&style=flat" alt="reactionic127" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=react-dev-james&label=Profile%20views&color=0e75b6&style=flat" alt="react-dev-james" /> </p>
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
