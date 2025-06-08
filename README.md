@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm James C</h1>
-<h3 align="center">A Senior React Developer from Canada</h3>
+<h1 align="center">Hi 👋, I'm Johnathon P</h1>
+<h3 align="center">A Senior React Developer</h3>
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 Skilled and results-oriented software architect and engineer with over 9 years of solid experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
+- 🌱 Skilled and results-oriented software architect and engineer with over 10 years of solid experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
 - 🌱 Proven ability to leverage full-stack knowledge and experience to build out ideas with modern technologies and best practices. 
 
