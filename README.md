@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johnathon P</h1>
 <h3 align="center">A Senior React Developer</h3>
 
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=react-dev-james&row=1" alt="react-dev-james" />
-    </a> 
-</p>
-
-
 - 🌱 Skilled and results-oriented software architect and engineer with over 10 years of solid experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
 - 🌱 Proven ability to leverage full-stack knowledge and experience to build out ideas with modern technologies and best practices. 
